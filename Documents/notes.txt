@@ -1,0 +1,12 @@
+WP-JWT:
+  https://plugins.miniorange.com/wp-rest-api-authentication-setup-guide
+  https://www.youtube.com/watch?v=_w4Ok-lI48g
+  https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/
+  This is for adding posts to WP
+  
+
+Docker Reference:
+  https://www.youtube.com/watch?v=3xDAU5cvi5E
+
+Details In Docs:
+  https://mherman.org/blog/dockerizing-a-react-app/
