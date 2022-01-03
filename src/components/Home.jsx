@@ -9,8 +9,6 @@ const Home = () => {
 
     //console.log(AllPosts);
 
-    
-
     function CreatePostObj(postObj, index) {
         return (
             <div className="row col-md-12" key={index}>
